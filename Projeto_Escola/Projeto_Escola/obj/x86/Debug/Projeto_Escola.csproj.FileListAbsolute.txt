@@ -1,0 +1,40 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\Projeto_Escola\obj\x86\Debug\Projeto_Escola.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Projeto_Escola\obj\x86\Debug\Projeto_Escola.csproj.GenerateResource.Cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\Projeto_Escola\bin\Debug\Projeto_Escola.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\Projeto_Escola\bin\Debug\Projeto_Escola.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\Projeto_Escola\obj\x86\Debug\Projeto_Escola.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\Projeto_Escola\obj\x86\Debug\Projeto_Escola.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\Projeto_Escola\obj\x86\Debug\Projeto_Escola.Menu.resources
+G:\Projeto_Escola\Projeto_Escola\obj\x86\Debug\Projeto_Escola.exe
+G:\Projeto_Escola\Projeto_Escola\obj\x86\Debug\Projeto_Escola.pdb
+G:\Projeto_Escola\Projeto_Escola\bin\Debug\Projeto_Escola.exe
+G:\Projeto_Escola\Projeto_Escola\bin\Debug\Projeto_Escola.pdb
+G:\Projeto_Escola\Projeto_Escola\obj\x86\Debug\Projeto_Escola.Menu.resources
+G:\Projeto_Escola\Projeto_Escola\obj\x86\Debug\Projeto_Escola.Properties.Resources.resources
+G:\Projeto_Escola\Projeto_Escola\obj\x86\Debug\Projeto_Escola.csproj.GenerateResource.Cache
+J:\Projeto_Escola\Projeto_Escola\obj\x86\Debug\Projeto_Escola.exe
+J:\Projeto_Escola\Projeto_Escola\obj\x86\Debug\Projeto_Escola.pdb
+J:\Projeto_Escola\Projeto_Escola\bin\Debug\Projeto_Escola.exe
+J:\Projeto_Escola\Projeto_Escola\bin\Debug\Projeto_Escola.pdb
+J:\Projeto_Escola\Projeto_Escola\obj\x86\Debug\Projeto_Escola.Menu.resources
+J:\Projeto_Escola\Projeto_Escola\obj\x86\Debug\Projeto_Escola.Properties.Resources.resources
+J:\Projeto_Escola\Projeto_Escola\obj\x86\Debug\Projeto_Escola.csproj.GenerateResource.Cache
+J:\Projeto_Escola\Projeto_Escola\obj\x86\Debug\Projeto_Escola.Cadastro_Aluno.resources
+J:\Projeto_Escola\Projeto_Escola\obj\x86\Debug\Projeto_Escola.Cadastro_Disciplina.resources
+J:\Projeto_Escola\Projeto_Escola\obj\x86\Debug\Projeto_Escola.Cadastro_Menção.resources
+G:\Projeto_Escola\Projeto_Escola\obj\x86\Debug\Projeto_Escola.Cadastro_Aluno.resources
+G:\Projeto_Escola\Projeto_Escola\obj\x86\Debug\Projeto_Escola.Cadastro_Disciplina.resources
+G:\Projeto_Escola\Projeto_Escola\obj\x86\Debug\Projeto_Escola.Cadastro_Menção.resources
+E:\Projeto_Escola\Projeto_Escola\obj\x86\Debug\Projeto_Escola.exe
+E:\Projeto_Escola\Projeto_Escola\obj\x86\Debug\Projeto_Escola.pdb
+E:\Projeto_Escola\Projeto_Escola\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projeto_Escola\Projeto_Escola\obj\x86\Debug\Projeto_Escola.Cadastro_Aluno.resources
+E:\Projeto_Escola\Projeto_Escola\obj\x86\Debug\Projeto_Escola.Cadastro_Disciplina.resources
+E:\Projeto_Escola\Projeto_Escola\obj\x86\Debug\Projeto_Escola.Cadastro_Menção.resources
+E:\Projeto_Escola\Projeto_Escola\obj\x86\Debug\Projeto_Escola.Menu.resources
+E:\Projeto_Escola\Projeto_Escola\obj\x86\Debug\Projeto_Escola.Properties.Resources.resources
+E:\Projeto_Escola\Projeto_Escola\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Projeto_Escola\Projeto_Escola\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Projeto_Escola\Projeto_Escola\bin\Debug\Projeto_Escola.exe
+E:\Projeto_Escola\Projeto_Escola\bin\Debug\Projeto_Escola.pdb
+J:\Projeto_Escola\Projeto_Escola\obj\x86\Debug\Projeto_Escola.csprojResolveAssemblyReference.cache
